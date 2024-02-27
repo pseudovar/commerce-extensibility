@@ -6,6 +6,10 @@ keywords:
   - Extensibility
 ---
 
+import BetaNote from '/src/_includes/starter-kit-beta.md'
+
+<BetaNote />
+
 # Set up your Adobe Commerce Starter Kit project
 
 To get started with Adobe Commerce Extensibility Starter Kit:
