@@ -8,6 +8,18 @@ keywords:
 
 # Adobe Commerce Admin UI SDK release notes
 
+## Version 1.4.0
+
+### Release date
+
+March 20, 2024
+
+## Enhancements
+
+
+## Bug fixes
+
+
 ## Version 1.3.2
 
 ### Release date
